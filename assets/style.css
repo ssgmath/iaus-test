@@ -14,7 +14,7 @@
 .page-banner,
 .page-banner.image-only {
   width: 100%;
-  height: 420px;
+  height: 600px;
   display: block;
   background: url("https://ssgmath.github.io/iaus-test/assets/poster.png") center center / cover no-repeat !important;
   background-position: center 200px;
